@@ -30,7 +30,7 @@ if will_rain:
     message = client.messages.create(
   from_='whatsapp:+12345678911',
   #content_sid='HXb5b6564564564129ad7c8efe1f983e',
-  body="I MADE ITTTTT YEEEYYYY!!!!!!!",
+  body="Bring Your Umrella ☔️",
   to='whatsapp:+12345678911'
 )
 
